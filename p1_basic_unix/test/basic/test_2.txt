@@ -1,0 +1,8 @@
+total 4
+-rw-rw-r-- 1 chuanle chuanle 21 Oct  5 19:36 test_1.txt
+-rw-rw-r-- 1 chuanle chuanle  0 Oct  5 19:36 test_2.txt
+-rw-rw-r-- 1 chuanle chuanle  0 Oct  5 19:36 test_3.txt
+total 8
+-rwxrwxr-x 1 chuanle chuanle  21 Oct  5 19:36 test_1.txt
+-rw-rw-r-- 1 chuanle chuanle 176 Oct  5 19:36 test_2.txt
+-rw-rw-r-- 1 chuanle chuanle   0 Oct  5 19:36 test_3.txt
